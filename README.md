@@ -17,10 +17,10 @@
 - Renault
 - Racing Point
 
-- Поділ датасету:
-- - train (72% + augmentation 100% ) 
-- - val (8%) 
-- - test (20%)
+#### Поділ датасету:
+- train (72% + augmentation 100% ) 
+- val (8%) 
+- test (20%)
 
 ## Результати базових тренувань
 ![base50_epochs](training-results/50_epochs.png)
