@@ -63,7 +63,6 @@ F1 Score: 0.9832
 ![transfer_learning_accuracy](training-results/transfer_learning_accuracy.png)
 ![transfer_learning_loss](training-results/transfer_learning_loss.png)
 ```
-mobilnet_v2_f1.pt
 Точність: 0.9179
 F1 Score: 0.9137
 ```
