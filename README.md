@@ -22,6 +22,8 @@
 - val (8%) 
 - test (20%)
 
+![class_examples](training-results/classes_amount.png)
+
 ## Результати базових тренувань
 ![base50_epochs](training-results/50_epochs.png)
 ```
